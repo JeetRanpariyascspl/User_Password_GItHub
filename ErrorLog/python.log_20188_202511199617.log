@@ -1,6 +1,0 @@
-INFO:     Started server process [20704]
-INFO:     Waiting for application startup.
-INFO:     Application startup complete.
-INFO:     Uvicorn running on http://0.0.0.0:15023 (Press CTRL+C to quit)
-INFO:     192.168.30.60:57999:0 - "GET /User_Password?ip=192.168.30.60%20%7C%7C%7C%20a0:d3:c1:34:42:42&user=IIPL&password=123456 HTTP/1.1" 200 OK
-INFO:     192.168.30.60:58044:0 - "GET /User_Password?ip=192.168.30.60%20%7C%7C%7C%20a0:d3:c1:34:42:42&user=IIPL&password=123456 HTTP/1.1" 200 OK
