@@ -1,7 +1,8 @@
-ErrorLog/
-.idea/
-.venv/
-build/
-dist/
-data.json
-data_1.json
+/.gitignore
+/ErrorLog/
+/.idea/
+/.venv/
+/build/
+/dist/
+/data.json
+/data_1.json
